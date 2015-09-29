@@ -1,0 +1,19 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:58:30.046358
+#+TITLE: 華嚴經要解
+#+PROPERTY: CBETA_ID X08n0238
+#+PROPERTY: ID KR6e0122
+#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 08, No. 238
+#+PROPERTY: VOL 08
+#+PROPERTY: BASEEDITION X
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0122_X_000-0449a>¶
+
+[[file:KR6e0122_001.txt::001-0449a2][賢首時儀教觀圖¶]]
+[[file:KR6e0122_001.txt::0450a2][法界觀境普融無盡圖¶]]
+[[file:KR6e0122_001.txt::0451a3][序]]
+[[file:KR6e0122_001.txt::0451a11][初懸敘¶]]
+[[file:KR6e0122_001.txt::0451c9][二釋題¶]]
+[[file:KR6e0122_001.txt::0451c24][三科解]]
+[[file:KR6e0122_001.txt::0468a24][五悔解¶]]
